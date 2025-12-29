@@ -6,7 +6,8 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGener
 from langchain_core.prompts import PromptTemplate
 from google import genai
 from google.genai import errors as genai_errors
-
+from dotenv import load_dotenv
+load_dotenv()
 # Set your API key as an environment variable first
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
