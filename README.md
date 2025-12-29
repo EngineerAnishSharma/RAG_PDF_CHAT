@@ -11,7 +11,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that allows you to ask questi
 - 🔒 **Local Embeddings**: Uses HuggingFace embeddings (no API quota limits)
 - ⚡ **Fast Retrieval**: Efficient document chunking and retrieval
 
-## Project Structure
+<!-- ## Project Structure
 
 ```
 RAG_PDF_CHAT/
@@ -34,7 +34,7 @@ RAG_PDF_CHAT/
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Environment variables
 └── README.md
-```
+``` -->
 
 ## Prerequisites
 
