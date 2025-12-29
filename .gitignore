@@ -1,0 +1,7 @@
+venv/
+app/faiss_index/
+app/uploads/
+__pycache__/
+.ipynb_checkpoints
+.env
+.env.local
