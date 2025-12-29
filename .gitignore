@@ -1,5 +1,5 @@
 venv/
-app/faiss_index/
+faiss_index/
 app/uploads/
 __pycache__/
 .ipynb_checkpoints
